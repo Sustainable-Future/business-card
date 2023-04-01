@@ -53,7 +53,7 @@
 
 .front p{
     color: #ccc;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .front button{
@@ -160,7 +160,5 @@
 
 .card:hover .card-inner{
     transform: rotateY(180deg);
-
-    
 }
 
